@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/brand-polish-footer-nav-417",
+    "main",
+    "origin",
+    "refactor/project-structure",
+    "revert-84-feat/soroban-agent-registry-contract"
+  ],
+  "parent": {
+    "feat/brand-polish-footer-nav-417": "main",
+    "main": null,
+    "origin": "main",
+    "refactor/project-structure": "main",
+    "revert-84-feat/soroban-agent-registry-contract": "main"
+  },
+  "order": [
+    "main",
+    "feat/brand-polish-footer-nav-417",
+    "origin",
+    "refactor/project-structure",
+    "revert-84-feat/soroban-agent-registry-contract"
+  ]
+}
